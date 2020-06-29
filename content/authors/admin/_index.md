@@ -23,11 +23,11 @@ bio: I am currently doing my B.Tech in Computer Science and Engineering, Going t
 
 
 interests:
--Web Development
--App Development
--Data Science
--Machine Learning
--Deep Learning
+- Web Development
+- App Development
+- Data Science
+- Machine Learning
+- Deep Learning
 - Artificial Intelligence
 - IOT
 
