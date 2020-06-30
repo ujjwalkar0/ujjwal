@@ -13,8 +13,8 @@ superuser: true
 role: Student
 
 # Organizations/Affiliations
-organizations: Bengal Institute of Technology
-# - name: Stanford University
+organizations: 
+name: Bengal Institute of Technology
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
