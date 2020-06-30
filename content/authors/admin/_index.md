@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-   - course: B.Tech in Computer Science and Engineering
+  - course: B.Tech in Computer Science and Engineering
     institution: Bengal Institute of Technology
     year: 2022
   - course: 10+2
