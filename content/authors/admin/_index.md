@@ -16,7 +16,6 @@ role: Student
 organizations: Bengal Institute of Technology
 # - name: Bengal Institute of Technology
  # url: ""
----
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am currently doing my B.Tech in Computer Science and Engineering, Going to Second Year, non-Computer Science Background till 12. I am interest almost everything related to Computer, and I till now i Just Learn  Python, C programming, HTML, CSS, Bootstrap, Javascript and Some of Jquery ,Sass,React, Arduino, Raspberry Pi. Now I am Learning React, and Start to do a course Data Science for Engineers and Essential Maths for Machine Learning in NPTEL. Till Now I have done two Project, One with Arduino and One with Web Development. 
@@ -77,3 +76,4 @@ email: ""
 # Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+---
