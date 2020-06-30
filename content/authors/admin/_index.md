@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently doing my B.Tech in Computer Science and Engineering, Going to Second Year, non-Computer Science Background till 12. I am interest almost everything related to Computer, and I till now i Just Learn  Python, C programming, HTML, CSS, Bootstrap, Javascript and Some of Jquery ,Sass,React, Arduino, Raspberry Pi. Now I am Learning React, and Start to do a course Data Science for Engineers and Essential Maths for Machine Learning in NPTEL. Till Now I have done two Project, One with Arduino and One with Web Development.
 
 interests:
 - Artificial Intelligence
