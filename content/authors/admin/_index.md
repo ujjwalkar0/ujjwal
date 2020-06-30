@@ -31,12 +31,13 @@ interests:
 
 education:
   courses:
+   - course: B.Tech in Computer Science and Engineering
+    institution: Bengal Institute of Technology
+    year: 2022
   - course: 10+2
     institution: Kamalpur Netaji High School
     year: 2018
-  - course: B.Tech in Computer Science and Engineering
-    institution: Bengal Institute of Technology
-    year: 2009
+ 
   
 
 # Social/Academic Networking
