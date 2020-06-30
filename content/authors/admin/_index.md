@@ -14,7 +14,7 @@ role: Student
 
 # Organizations/Affiliations
 organizations: 
-name: Bengal Institute of Technology
+- name: Bengal Institute of Technology
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
