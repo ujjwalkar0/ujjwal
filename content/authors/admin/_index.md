@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ujjwal Kar
+title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,35 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Student
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations: Bengal Institute of Technology
-# - name: Bengal Institute of Technology
- # url: ""
+organizations:
+- name: Stanford University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently doing my B.Tech in Computer Science and Engineering, Going to Second Year, non-Computer Science Background till 12. I am interest almost everything related to Computer, and I till now i Just Learn  Python, C programming, HTML, CSS, Bootstrap, Javascript and Some of Jquery ,Sass,React, Arduino, Raspberry Pi. Now I am Learning React, and Start to do a course Data Science for Engineers and Essential Maths for Machine Learning in NPTEL. Till Now I have done two Project, One with Arduino and One with Web Development. 
-
-
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Web Development
-- App Development
-- Data Science
-- Machine Learning
-- Deep Learning
 - Artificial Intelligence
-- IOT
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: B.Tech in Computer Science and Engineering
-    institution: Bengal Institute of Technology
-    year: 2022
-  - course: 10+2
-    institution: Kamalpur Netaji High School
-    year: 2018
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "ujjwalkar21@gmail.com".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/UjjwalKar18
-# - icon: google-scholar
-# icon_pack: ai
-# link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/ujjwalkar0
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,12 +65,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
-# ---
-
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+user_groups:
+- Researchers
+- Visitors
 ---
+
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
