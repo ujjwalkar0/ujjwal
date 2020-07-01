@@ -18,18 +18,24 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Python Basic(80%), Django(60%), Tkinter(30%)"
+  description = "Python Basic(80%), Django(70%), Tkinter(30%)"
   
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
-  name = "Web Development"
-  description = "HTML(80%), CSS(60%), Javascript(60%), SASS(20%), JQUERY(20%), React Js(30%), Django(70%)%"  
+  name = "Fontend Development"
+  description = "HTML(80%), CSS(60%), Javascript(60%), SASS(20%), JQUERY(20%), React Js(30%)"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Backend Development"
+  description = " Django(70%)"
+
+[[feature]]
+  icon = "microchip"
+  icon_pack = "fas"
+  name = "Arduino"
   description = "10%"
 
 # Uncomment to use emoji icons.
