@@ -27,7 +27,7 @@ subtitle = ""
   description = "HTML(80%), CSS(60%), Javascript(60%), SASS(20%), JQUERY(20%), React Js(30%)"  
   
 [[feature]]
-  icon = "browser"
+  icon = "cogs"
   icon_pack = "fas"
   name = "Backend Development"
   description = " Django(70%)"
