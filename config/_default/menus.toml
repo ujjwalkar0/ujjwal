@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = "https://csekod.blogspot.com/search/label/Ujjwal?&max-results=10"
   weight = 20
 
 [[main]]
