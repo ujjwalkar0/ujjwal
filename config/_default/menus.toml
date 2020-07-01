@@ -12,6 +12,12 @@
   name = "Posts"
   url = "https://csekod.blogspot.com/search/label/Ujjwal?&max-results=10"
   weight = 20
+  
+  [[main]]
+  name = "Posts"
+  url = "#skills"
+  weight = 20
+
 
 [[main]]
   name = "Projects"
