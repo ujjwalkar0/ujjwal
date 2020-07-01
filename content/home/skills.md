@@ -21,9 +21,9 @@ subtitle = ""
   description = "Python Basic(80%), Django(60%), Tkinter(30%)"
   
 [[feature]]
-  icon = "Web Development"
+  icon = "file-code"
   icon_pack = "fas"
-  name = "file-code"
+  name = "Web Development"
   description = "HTML(80%), CSS(60%), Javascript(60%), SASS(20%), JQUERY(20%), React Js(30%), Django(70%)%"  
   
 [[feature]]
