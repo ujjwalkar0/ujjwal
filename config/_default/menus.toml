@@ -30,11 +30,6 @@
 #  url = "#featured"
 #  weight = 40
 
-[[main]]
-  name = "Blog"
-  url = "http://csekod.blogspot.com"
-  weight = 30
-
 
 [[main]]
   name = "Contact"
