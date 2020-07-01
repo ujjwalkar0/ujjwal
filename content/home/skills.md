@@ -18,7 +18,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Python Basic, Django, Tkinter%"
+  description = "Python Basic(80%), Django(60%), Tkinter(30%)"
   
 [[feature]]
   icon = "chart-line"
