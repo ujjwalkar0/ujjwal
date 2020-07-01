@@ -7,17 +7,16 @@
   name = "Home"
   url = "#about"
   weight = 10
-
-[[main]]
-  name = "Posts"
-  url = "https://csekod.blogspot.com/search/label/Ujjwal?&max-results=10"
-  weight = 20
   
   [[main]]
   name = "Skills"
   url = "#skills"
   weight = 20
 
+[[main]]
+  name = "Posts"
+  url = "https://csekod.blogspot.com/search/label/Ujjwal?&max-results=10"
+  weight = 20
 
 [[main]]
   name = "Projects"
