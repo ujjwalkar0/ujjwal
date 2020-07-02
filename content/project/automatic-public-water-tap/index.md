@@ -6,7 +6,7 @@ summary: This is a project is made by arduino, IR Sensor, and Servo motor which
   automise public water tap and safe water from wasting
 draft: false
 featured: false
-external_link: https://ujjwalkar-blog.blogspot.com/2019/10/automatic-public-water-tap.html
+external_link: https://csekod.blogspot.com/2020/07/automatic-public-water-tap.html
 image:
   filename: featured
   focal_point: ""
@@ -22,13 +22,9 @@ In The road side water tap we see that a huge amount of water is wasting when pe
 
 ## Image of Prototype :
 
-![Picture of The Project ](wattertap.png "Picture of The Project ")
-
-
+![Picture of The Project ](wattertap.png)
 
 ## Specification :
-
-
 
 | \--------------------------------- | \--------------------------------------- |
 | ---------------------------------- | ---------------------------------------- |
@@ -48,15 +44,11 @@ When a bottle or bucket is putting under the the tap , both sensor detect that s
 
 ## Block Diagram :
 
-![Block Diagram](block-diagramme.png "Block Diagram")
-
-
+![Block Diagram](block-diagramme.png)
 
 ## Circuit Diagram :
 
 ![](screenshot-from-2019-10-01-01-11-57.png)
-
-
 
 ## Algorithm :
 
@@ -64,8 +56,6 @@ When a bottle or bucket is putting under the the tap , both sensor detect that s
 2. Sensor 1 watch a object and servo motor 1 rotates, and Sensor 2 watch a object and motor 2 rotates.
 3. When both motors rotates then water run.
 
-
-
-#### Note : I Use Two sensor, beacause if any unwanted obstacle comes near the sensor it rotates the motor and water will waste. 
+#### Note : I Use Two sensor, beacause if any unwanted obstacle comes near the sensor it rotates the motor and water will waste.
 
 I was made this project in ***beginning* of 1st year** when I had not such coding knowledge. this project will be made using ***one Arduino and one IR Sensor.***
