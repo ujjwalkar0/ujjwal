@@ -8,7 +8,7 @@ draft: false
 featured: false
 external_link: https://csekod.blogspot.com/2020/07/automatic-public-water-tap.html
 image:
-  filename: featured
+  filename: wattertap.png
   focal_point: ""
   preview_only: false
 ---
