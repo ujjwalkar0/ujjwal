@@ -1,5 +1,5 @@
 ---
-title: DoctorMirror
+title: "eHealth System : DoctorMirror"
 date: 2020-07-03T03:00:40.300Z
 summary: In this project is the prototype of a eHealth system where Doctors,
   Patients, Nurses, Ambulances, Hospitals can register, and one find another
@@ -8,7 +8,7 @@ draft: false
 featured: false
 external_link: https://csekod.blogspot.com/2020/07/ehealth-system-doctormirror.html
 image:
-  filename: logo.png
-  focal_point: TOP
+  filename: featured.jpg
+  focal_point: ""
   preview_only: false
 ---
