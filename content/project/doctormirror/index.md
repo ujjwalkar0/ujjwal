@@ -6,7 +6,7 @@ summary: In this project is the prototype of a eHealth system where Doctors,
   when need.
 draft: false
 featured: false
-external_link: https://csekod.blogspot.com/2020/07/ehealth-system-doctormirror.html
+external_link: https://github.com/ujjwalkar0/Doctormirror
 image:
   filename: featured.jpg
   focal_point: ""
