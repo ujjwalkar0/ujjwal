@@ -1,12 +1,6 @@
 ---
 title: Some competitive exams for school students
-subtitle: If you are in school and then I suggest you to try these competitive
-  exams. Because in many schools Teachers and students both make a limitation in
-  Learning by making suggestions. So if you try these exams you will get a
-  chance to test your knowledge & get experience in sitting in a competitive
-  exam. Not only that if you take the preparation of any competitive exam along
-  with your academics, you must gain some experience along with knowledge that
-  will help you in the future.
+subtitle: ""
 date: 2020-08-15T17:39:22.339Z
 summary: ""
 draft: false
@@ -16,6 +10,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+If you are in school and then I suggest you to try these competitive exams. Because in many schools Teachers and students both make a limitation in Learning by making suggestions. So if you try these exams you will get a chance to test your knowledge & get experience in sitting in a competitive exam. Not only that if you take the preparation of any competitive exam along with your academics, you must gain some experience along with knowledge that will help you in the future.
+
+
+
 * ## ***NTSE*-NATIONAL TALENT SEARCH EXAMINATION**
 
 NTSE is activity organised by NCERT for students of various classes. It is one of the most popular examination conducted in India. NTSE was established in 1961. It is a scholarship program.
