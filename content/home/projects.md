@@ -20,6 +20,12 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
   
   # [[content.filter_button]]
   #   name = "All"
