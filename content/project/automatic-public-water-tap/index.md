@@ -6,7 +6,6 @@ summary: This is a project is made by arduino, IR Sensor, and Servo motor which
   automise public water tap and safe water from wasting
 draft: false
 featured: false
-external_link: "#"
 image:
   filename: featured.jpg
   focal_point: ""
