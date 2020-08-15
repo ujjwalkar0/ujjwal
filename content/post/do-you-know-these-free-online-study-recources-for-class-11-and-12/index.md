@@ -1,5 +1,5 @@
 ---
-title: Do you know these free online Study Recources for Class 11 and 12
+title: Free online Study Recources for Class 11 and 12
 subtitle: "Nowadays it is happen that students who live in village area, or in a
   town where Teacher of class 11, 12 is not available for science. And in town
   also student can't take good tution due to economical condition or some other
