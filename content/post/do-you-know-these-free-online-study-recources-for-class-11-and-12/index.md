@@ -78,19 +78,16 @@ Some online coaching class have been started like unacademy, byjus etc.They take
 
 ## **eBooks**
 
-1. [DOWNLOAD NCERT BOOKS FOR EVERY CLASSES (1 to 12)](http://ncert.nic.in/textbook/textbook.htm)
+1. [DOWNLOAD NCERT BOOKS FOR EVERY CLASSES (1 to 12](https://ncert.nic.in/textbook.php)
 
 
-2. [DOWNLOAD SCERT BOOKS FOR EVERY CLASSES(1 to 12)](http://ncert.nic.in/statebooks/state_ebooks.html)
+2. [Download IIT JEE BOOKS AND STUDY MATERIAL (11 , 12)](https://jeemain.guru/)
 
 
-3. [Download IIT JEE BOOKS AND STUDY MATERIAL (11 , 12)](https://jeemain.guru/)
+3. [Jee main previous year paper ( Pen and Paper based)](https://play.google.com/store/apps/details?id=com.Lastyear.jeemainsolvedpapers)
 
 
-4. [Jee main previous year paper ( Pen and Paper based)](https://play.google.com/store/apps/details?id=com.Lastyear.jeemainsolvedpapers)
+4. [Jee main previous year paper ( Computer Based )](https://play.google.com/store/apps/details?id=com.lastyears.jeemainonlinepapers)
 
 
-5. [Jee main previous year paper ( Computer Based )](https://play.google.com/store/apps/details?id=com.lastyears.jeemainonlinepapers)
-
-
-6. [Give Test from Jee Main Past Year Paper](https://play.google.com/store/apps/details?id=com.examgoal.jeemainpreparation.app)
+5. [Give Test from Jee Main Past Year Paper](https://play.google.com/store/apps/details?id=com.examgoal.jeemainpreparation.app)
