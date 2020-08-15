@@ -20,14 +20,8 @@ Some online coaching class have been started like unacademy, byjus etc.They take
 
   1. **Physics Galaxy  ( [Youtube](https://www.youtube.com/user/physicsgalaxy74) || [Website](https://www.physicsgalaxy.com)  || [App](https://play.google.com/store/apps/details?id=com.physicsgalaxy.www) )**
   2. **Khan Academy  ( [Youtube(India)](https://www.youtube.com/channel/UCU0kWLAbhVGxXarmE3b8rHg) || [Youtube(Global)](https://www.youtube.com/user/khanacademy) || [Website](https://www.khanacademy.org/)  || [App](https://play.google.com/store/apps/details?id=org.khanacademy.android) )**
-  3. **EXAMFEAR  ( [Youtube(India)](https://www.youtube.com/channel/UCU0kWLAbhVGxXarmE3b8rHg) || [Youtube(Global)](https://www.youtube.com/user/khanacademy) || [Website](https://www.khanacademy.org/)  || [App](https://play.google.com/store/apps/details?id=org.khanacademy.android) )**
-
-
-
-
-
-
-
+  3. **EXAMFEAR  ( [Youtube ( 9 & 10 )](https://www.youtube.com/channel/UCWtKeCH3qnbq6GZpDiqgsKg) || [Youtube( 11 & 12 )](https://www.youtube.com/user/ExamFearVideos) || [Website](https://examfear.com/free-video-lesson/all)  || [App](https://play.google.com/store/apps/details?id=com.examfear.app) )**
+  4. **PHYSICS WALLAH - ALAK PANDEY  ( [Youtube](https://www.youtube.com/channel/UCiGyWN6DEbnj2alu7iapuKQ) || [Website](http://physicswallahalakhpandey.com/)  || [App](https://play.google.com/store/apps/details?id=com.gaurav30101999.Physicswalla) )**
 
 
 * #### Chemistry:
