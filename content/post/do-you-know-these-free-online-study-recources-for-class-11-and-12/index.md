@@ -76,7 +76,7 @@ Some online coaching class have been started like unacademy, byjus etc.They take
 4. Physical Chemistry :- [Click here](https://play.google.com/store/apps/details?id=com.mitz.app.navasthiphysicalchemistrybook)
 5. Inorganic Chemistry :- [Get Pdf](https://drive.google.com/file/d/14Cd5zFb7LtLoTMAM1bFLAVrS_LcxYZYy/view)
 
-## eBooks
+## **eBooks**
 
 1. [DOWNLOAD NCERT BOOKS FOR EVERY CLASSES (1 to 12)](http://ncert.nic.in/textbook/textbook.htm)
 
