@@ -7,7 +7,7 @@ summary: In this project is the prototype of a eHealth system where Doctors,
   when need.
 draft: false
 featured: false
-external_link: <https://doctormirror.herokuapp.com>
+external_link:
 image:
   filename: featured.jpg
   focal_point: ""
