@@ -9,6 +9,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+# Problem Statement
+
 There are 3n piles of coins of varying size, you and your friends will take piles of coins as follows:
 
 * In each step, you will choose **any** 3 piles of coins (not necessarily consecutive).
@@ -20,8 +22,6 @@ There are 3n piles of coins of varying size, you and your friends will take pile
 Given an array of integers `piles` where `piles[i]` is the number of coins in the `ith` pile.
 
 Return the maximum number of coins which you can have.
-
-
 
 **Example 1:**
 
@@ -48,10 +48,21 @@ Input: piles = [9,8,7,6,5,1,2,3,4]
 Output: 18
 ```
 
-
-
 **Constraints:**
 
 * `3 <= piles.length <= 10^5`
 * `piles.length % 3 == 0`
 * `1 <= piles[i] <= 10^4`
+
+# Code 
+## Python3
+```
+class Solution:
+    def maxCoins(self, piles: List[int]) -> int:
+        sum = 0
+        piles.sort()
+        for i in range(1,1+int(len(piles)//3)):
+            sum = sum + piles[-2*i]
+        return sum
+
+```
