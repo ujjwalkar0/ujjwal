@@ -11,7 +11,7 @@ image:
   preview_only: false
 ---
 
-
+# Problem
 
 
 Given an integer `n`, add a dot (".") as the thousands separator and return it in string format.
@@ -55,7 +55,7 @@ Output: "0"
 ``
 
 ` `
-# Code
+# Solution
 ### Python3
 ```
     a=str(input())
