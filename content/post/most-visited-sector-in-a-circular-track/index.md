@@ -1,5 +1,5 @@
 ---
-title: Most Visited Sector in a Circular Track
+title: "Algorithm : Most Visited Sector in a Circular Track"
 subtitle: Source :-
   https://leetcode.com/contest/weekly-contest-203/problems/most-visited-sector-in-a-circular-track/
 date: 2020-08-24T03:19:19.336Z
@@ -54,9 +54,9 @@ Output: [1,2,3,4,5,6,7]
 
 # Solution
 
-## Algorithm
+## Discussion
 
-![Algorithm](photo_2020-08-24_08-51-42.jpg)
+![Discussion](photo_2020-08-24_08-51-42.jpg)
 
 ## Code { Python3 }
 
