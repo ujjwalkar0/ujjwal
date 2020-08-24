@@ -54,7 +54,7 @@ Output: "0"
 
 ``
 
-` `
+``
 # Solution
 ### Python3
 ```
