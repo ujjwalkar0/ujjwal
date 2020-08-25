@@ -61,3 +61,5 @@ or, (9-3) + 10  - 10 = (9-3) \[ Recomplement ] ---> which is the final answer.
 **Step 2 :** 1101 + 0110 = 10011
 
 **Step 3 :** Remove extra carry 1 and add 1 to remaining digits. i.e.  0011 + 1 = 0100
+
+**Behind the scene !!**
