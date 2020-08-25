@@ -1,5 +1,5 @@
 ---
-title: "Behind the scene in substraction : Complement & Recomplement "
+title: "Behind the Scene in Subtraction : Complement & Recomplement "
 date: 2020-08-25T12:45:41.822Z
 draft: false
 featured: false
