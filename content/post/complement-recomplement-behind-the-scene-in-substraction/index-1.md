@@ -24,9 +24,13 @@ image:
 
 **Behind the scene !!**
 
-9 + 7 = 9 + (10 - 3) = (9 - 3) +10  \[ 10's complement of answer ]
+**Step 1 :** (10 - 3) \[ 10's complement ]
 
-or, (9-3) + 10  - 10 = (9-3) \[ Recomplement ] ---> which is the final answer.
+**Step 2 :** 9 + 7 = 9 + (10 - 3) = (9 - 3) +10  \[ 10's complement of answer ]
+
+**Step 3 :** (9-3) + 10  - 10 = (9-3) \[ Recomplement ] ---> which is the final answer.
+
+
 
 > **M-N when M<N**
 
@@ -42,9 +46,13 @@ or, (9-3) + 10  - 10 = (9-3) \[ Recomplement ] ---> which is the final answer.
 
 **Behind the scene**
 
-3 + 1 = 3 + (10 - 9 ) = (3 - 9) + 10 \[ 10's complement of answer ]
+**Step 1 :** (10 - 9 ) \[ 10's Complement ]
 
-(3 - 9) + 10 - 10 \[ Recomplement ] = (3 - 9) \[ Final Answer ]
+**Step 2 :** 3 + 1 = 3 + (10 - 9 ) = (3 - 9) + 10 \[ 10's complement of answer ]
+
+**Step 3 :** (3 - 9) + 10 - 10 \[ Recomplement ] = (3 - 9) \[ Final Answer ]
+
+
 
 ## **1's complement :**
 
@@ -62,24 +70,28 @@ or, (9-3) + 10  - 10 = (9-3) \[ Recomplement ] ---> which is the final answer.
 
 **Behind the scene !!**
 
-1101 + (1111 - 1001) \[ 1's Complement ]  = 1101 - 1001 + 1111
+**Step 1 :** (1111 - 1001) \[ 1's Complement ]
 
-(1101 - 1001) + (1111 + 1 ) - 10000 \[ Step 3 ]  \[ Final Result ]
+**Step 2 :** 1101 + (1111 - 1001) = 1101 - 1001 + 1111
+
+**Step 3 :** (1101 - 1001) + (1111 + 1 ) - 10000
 
 > **M-N when      M<N**
 
-**1001 - 1101 1101 -= 0100  ---->  is it correct ?**
+**1001 - 1101 = 1100  ---->  is it correct ?**
 
 **How to do substraction using complement ?**
 
-**Step 1 :** 1001 ---> \[ 1's complement ]  ----> 1111 - 1001 = 0110
+**Step 1 :** 1101 ---> \[ 1's complement ]  ----> 1111 - 1101 = 0010
 
-**Step 2 :** 1101 + 0110 = 10011
+**Step 2 :** 1001 + 0010 = 1011
 
-**Step 3 :** Remove extra carry 1 and add 1 to remaining digits. i.e.  0011 + 1 = 0100
+**Step 3 :** Take complement with a minus sign, i.e. -0100
 
 **Behind the scene !!**
 
-1101 + (1111 - 1001) \[ 1's Complement ]  = 1101 - 1001 + 1111
+**Step 1 :** (1111 - 1101) \[ 1's Complement ]
 
-(1101 - 1001) + (1111 + 1 ) - 10000 \[ Step 3 ]  \[ Final Result ]
+**Step 2 :** 1001 + (1111 - 1101) = 1001 - 1101 + 1111
+
+**Step 3 :** 1111 - {(1101 - 1001) + 1111 }  \[ Recomplement ] = - (1101 - 1001)
