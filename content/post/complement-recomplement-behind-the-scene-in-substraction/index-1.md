@@ -5,6 +5,8 @@ draft: false
 featured: false
 tags:
   - Digital Electronics
+  - Data Representation
+  - Subtraction
 image:
   filename: featured
   focal_point: Smart
