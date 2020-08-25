@@ -8,20 +8,20 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## About 10's complement :
+## **About 10's complement :**
 
 > **M-N when      M>N**
 
-##### 9-3 = 6  --> is it correct ?
+ **9-3 = 6  --> is it correct ?**
 
-### How to do substraction using complement ?
+**How to do substraction using complement ?**
 
 3 -----> \[ 10's complement ] ---->  10-3 = 7
 
 9+7 = 16   \[ 10's complement of answer ]
 16-10 = 6  \[ final answer ]
 
-### Behind the scene !!
+**Behind the scene !!**
 
 9 + 7 = 9 + (10 - 3) = (9 - 3) +10  \[ 10's complement of answer ]
 
