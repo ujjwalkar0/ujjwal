@@ -38,10 +38,10 @@ subtitle = ""
   name = "Arduino"
   description = "10%"
 
-[feature]]
+[[feature]]
   icon = "linux"
   icon_pack = "fab"
-  name = "Linux Shell Script (Bash)"
+  name = "Linux"
   description = "80%"
   
 # Uncomment to use emoji icons.
