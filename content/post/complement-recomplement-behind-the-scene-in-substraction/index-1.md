@@ -10,7 +10,7 @@ image:
 ---
 ## **10's complement :**
 
-> **M-N when      M>N**
+> **M-N when      M>N** 
 
  **9-3 = 6  --> is it correct ?**
 
