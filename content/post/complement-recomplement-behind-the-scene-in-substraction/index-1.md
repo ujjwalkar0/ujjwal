@@ -46,8 +46,6 @@ or, (9-3) + 10  - 10 = (9-3) \[ Recomplement ] ---> which is the final answer.
 
 (3 - 9) + 10 - 10 \[ Recomplement ] = (3 - 9) \[ Final Answer ]
 
-
-
 ## **1's complement :**
 
 > **M-N when      M>N**
@@ -66,4 +64,22 @@ or, (9-3) + 10  - 10 = (9-3) \[ Recomplement ] ---> which is the final answer.
 
 1101 + (1111 - 1001) \[ 1's Complement ]  = 1101 - 1001 + 1111
 
-(1101 - 1001) + (1111 + 1 ) - 10000
+(1101 - 1001) + (1111 + 1 ) - 10000 \[ Step 3 ]  \[ Final Result ]
+
+> **M-N when      M<N**
+
+**1001 - 1101 1101 -= 0100  ---->  is it correct ?**
+
+**How to do substraction using complement ?**
+
+**Step 1 :** 1001 ---> \[ 1's complement ]  ----> 1111 - 1001 = 0110
+
+**Step 2 :** 1101 + 0110 = 10011
+
+**Step 3 :** Remove extra carry 1 and add 1 to remaining digits. i.e.  0011 + 1 = 0100
+
+**Behind the scene !!**
+
+1101 + (1111 - 1001) \[ 1's Complement ]  = 1101 - 1001 + 1111
+
+(1101 - 1001) + (1111 + 1 ) - 10000 \[ Step 3 ]  \[ Final Result ]
