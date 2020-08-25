@@ -143,3 +143,9 @@ image:
 **Step 2 :** 1001 + (1111 - 1101) + 1 = 1001 - 1101 + 1111 + 1
 
 **Step 3 :** 10000 - {(1101 - 1001) + 1111+1 }  \[ Recomplement ] = - (1101 - 1001)
+
+
+
+
+
+##### Thanks for reading this Article
