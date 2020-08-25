@@ -24,7 +24,7 @@ subtitle = ""
   icon = "file-code"
   icon_pack = "fas"
   name = "Fontend Development"
-  description = "HTML(80%), CSS(60%), Javascript(60%), SASS(20%), JQUERY(20%), React Js(30%)"  
+  description = "HTML(80%), CSS(60%), Javascript(60%), SASS(20%), JQUERY(20%)"
   
 [[feature]]
   icon = "cogs"
@@ -38,6 +38,12 @@ subtitle = ""
   name = "Arduino"
   description = "10%"
 
+[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux Shell Script (Bash)"
+  description = "80%"
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
