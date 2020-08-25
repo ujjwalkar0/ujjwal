@@ -42,7 +42,7 @@ subtitle = ""
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "80%"
+  description = " Basic Linux (80 %),  Bash Shell Script (60%) "
   
 # Uncomment to use emoji icons.
 # [[feature]]
