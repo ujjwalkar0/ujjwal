@@ -25,8 +25,6 @@ sudo apt-get update
 sudo apt-get -y install postgresql
 ```
 
-
-
 ## Make Sure You have installed following packages
 
 python-dev, build-essential, libssl-dev, libffi-dev, libxml2-dev, libxslt1-dev, zlib1g-dev, python3.x-pip, python3.x-dev  (x is your version)
@@ -43,9 +41,7 @@ sudo apt-get install python3.x-pip
 sudo apt-get install python3.x-dev
 ```
 
-
-
-## Install PgAdmin4 
+## Install PgAdmin4
 
 ```
 $ sudo mkdir /var/lib/pgadmin
@@ -70,4 +66,32 @@ Starting pgAdmin 4. Please navigate to http://127.0.0.1:5050 in your browser.
    WARNING: Do not use the development server in a production environment.
    Use a production WSGI server instead.
  * Debug mode: off
+```
+
+
+
+## Open Postgresql on Terminal
+
+Write
+
+
+
+```
+sudo -u postgres -i
+
+Then
+
+psql
+
+then set password by writting  
+    \password postgresql
+then open pgadmin from browser
+
+add server
+
+give a name
+
+hostname localhost
+give same password
+username postgres
 ```
