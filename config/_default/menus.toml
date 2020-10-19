@@ -22,12 +22,7 @@
   name = "Post"
   url = "#posts"
   weight = 40
-  
-[[main]]
-  name = "Notes"
-  url = "#notes"
-  weight = 34
- 
+   
 [[main]]
   name = "Contact"
   url = "#contact"
