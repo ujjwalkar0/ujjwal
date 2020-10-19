@@ -18,7 +18,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Python Basic(80%), Django(70%), Tkinter(30%)"
+  description = ""
   
 [[feature]]
   icon = "file-code"
@@ -31,12 +31,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Backend Development"
   description = " Django(70%)"
-
-[[feature]]
-  icon = "microchip"
-  icon_pack = "fas"
-  name = "Arduino"
-  description = "10%"
 
 [[feature]]
   icon = "linux"
