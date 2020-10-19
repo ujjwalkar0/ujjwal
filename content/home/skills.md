@@ -24,19 +24,19 @@ subtitle = ""
   icon = "file-code"
   icon_pack = "fas"
   name = "Fontend Development"
-  description = "HTML(80%), CSS(60%), Javascript(60%), SASS(20%), JQUERY(20%)"
+  description = "HTML, CSS, Javascript, SASS, JQUERY, JSON, AJAX"
   
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
   name = "Backend Development"
-  description = " Django(70%)"
+  description = " Django"
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = " Basic Linux (80 %),  Bash Shell Script (60%) "
+  description = " Basic Linux ,  Bash Shell Script "
   
 # Uncomment to use emoji icons.
 # [[feature]]
