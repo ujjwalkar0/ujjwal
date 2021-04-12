@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently doing my B.Tech in Computer Science and Engineering, Going to Second Year, non-Computer Science Background till 12. I am interest almost everything related to Computer, and I till now i Just Learn  Python, C programming, HTML, CSS, Bootstrap, Javascript and Some of Jquery ,Sass,React, Arduino, Raspberry Pi. Now I am Learning React, and Start to do a course Data Science for Engineers and Essential Maths for Machine Learning in NPTEL. Till Now I have done two Project, One with Arduino and One with Web Development.
+Hi, myself Ujjwal Kar, 2nd year of B.Tech in Engineering from Bengal Institute of Technology, Kolkata. I have worked on various technology and now I am Interested in Artifical Inteligence and IoT. I pass my free time with writing or reading technical blogs, competitve programming or watching movies. I love to do small experiments or develop something new by coding.
