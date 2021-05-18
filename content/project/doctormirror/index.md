@@ -1,5 +1,5 @@
 ---
-title: DoctorMirror
+title: DoctorMirror | e-Medical Service | Future Proof Hackathon
 subtitle: ""
 date: 2020-07-03T03:00:40.300Z
 summary: In this project is the prototype of a eHealth system where Doctors,
@@ -7,7 +7,7 @@ summary: In this project is the prototype of a eHealth system where Doctors,
   when need.
 draft: false
 featured: false
-external_link:
+external_link: bvbfhv
 image:
   filename: featured.jpg
   focal_point: ""
