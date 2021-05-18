@@ -3,10 +3,10 @@ title: Authenticate Shopee | Our this Project in top 20 in SRIIH Hackathon
 date: 2021-05-18T16:15:08.170Z
 draft: false
 featured: false
-# external_link: www.google.com
+external_link:
 image:
   filename: img-20210401-wa0033.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 ---
 ## Problem Statement :
