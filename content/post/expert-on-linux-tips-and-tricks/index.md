@@ -18,6 +18,6 @@ image:
 
 2. [Share files from Between Two PC’s 😍](https://ujjwalkar.medium.com/share-files-from-between-two-pcs-778a1e5eb583)
 
-3. [GUI Using Python With Kivy, Deploy It to APK, From Any Operating System Without Virtualbox 👐](https://medium.com/geekculture/gui-using-python-with-kivy-deploy-it-to-apk-from-any-operating-system-without-virtualbox-fe2268518286)
+3. [GUI Using Python With Kivy, Deploy It to APK, From Any Operating System Without Virtualbox 👐](https://ujjwalkar.medium.com/gui-using-python-with-kivy-deploy-it-to-apk-from-any-operating-system-without-virtualbox-fe2268518286)
 
-4. [Try Other Linux OS on Your Linux Destro Without Virtual Machine and Save a Large Amount of RAM Memory.](https://medium.com/geekculture/try-another-linux-environment-on-one-using-docker-without-virtual-box-or-its-alternative-which-86049c6cd7ae)
+4. [Try Other Linux OS on Your Linux Destro Without Virtual Machine and Save a Large Amount of RAM Memory.](https://ujjwalkar.medium.com/try-another-linux-environment-on-one-using-docker-without-virtual-box-or-its-alternative-which-86049c6cd7ae)
