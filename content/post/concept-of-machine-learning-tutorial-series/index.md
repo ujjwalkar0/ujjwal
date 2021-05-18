@@ -1,5 +1,5 @@
 ---
-title: Concept of Machine Learning Tutorial Series
+title: Concept of Machine Learning Article Series
 subtitle: In this Tutorial Series you will learn basic concept of machine
   learning, theory, code etc.
 date: 2021-05-18T05:38:24.613Z
