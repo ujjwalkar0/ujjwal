@@ -7,7 +7,7 @@ draft: false
 featured: false
 external_link:
 image:
-  filename: img-20210401-wa0033.jpg
+  filename: featured.jpg
   focal_point: ""
   preview_only: false
 ---
