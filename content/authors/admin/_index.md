@@ -54,9 +54,9 @@ social:
   icon_pack: fab
   link: https://github.com/ujjwalkar0
   
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCvPXIwXN2nSRZL2kzfKhGQw
+# - icon: youtube
+#  icon_pack: fab
+#  link: https://www.youtube.com/channel/UCvPXIwXN2nSRZL2kzfKhGQw
   
 - icon: medium
   icon_pack: fab
