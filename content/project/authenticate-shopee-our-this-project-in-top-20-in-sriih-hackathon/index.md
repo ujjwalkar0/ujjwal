@@ -2,7 +2,7 @@
 title: Authenticate Shopee | Our this Project in top 20 in SRIIH Hackathon
 subtitle: ""
 date: 2021-05-18T16:15:08.170Z
-summary: 
+summary: This web app is a online platform for seller, customer and someone who need a parttime job of delivery boy.
 draft: false
 featured: false
 external_link:
