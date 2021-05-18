@@ -1,5 +1,5 @@
 ---
-title: DoctorMirror | e-Medical Service | Future Proof Hackathon
+title: DoctorMirror | e-Medical Service in Lockdown | Future Proof Hackathon
 subtitle: ""
 date: 2020-07-03T03:00:40.300Z
 summary: In this project is the prototype of a eHealth system where Doctors,
