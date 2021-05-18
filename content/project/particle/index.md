@@ -1,5 +1,5 @@
 ---
-title: Particle | Write less code for C [ Not Complete | Closed ]
+title: Particle | Less code for C [ Not Complete | Closed ]
 date: 2020-08-23T18:36:12.023Z
 summary: Particle is a Open source Linux based shell script in which you have to
   write less number of code and It's easily converted to C programming language.
