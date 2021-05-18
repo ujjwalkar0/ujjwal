@@ -5,9 +5,9 @@ summary: Particle is a Open source Linux based shell script in which you have to
   write less number of code and It's easily converted to C programming language.
 draft: false
 featured: false
-external_link:
+external_link: www.google.cm
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
