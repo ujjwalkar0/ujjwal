@@ -43,6 +43,13 @@ subtitle = ""
   icon_pack = "fas"
   name = "Virtual Machine, Hypervisor and Docker"
   description = "Virtualbox, KVM Hypervisor, Xen Hypervisor in Qubes Os, Docker "
+  
+[[feature]]
+  icon = "network-wired"
+  icon_pack = "fas"
+  name = "Networking Tools"
+  description = "Nmap, ssh "
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
