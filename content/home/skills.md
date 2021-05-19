@@ -15,29 +15,35 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-#  icon = "python"
-#  icon_pack = "fab"
+  icon = "python"
+  icon_pack = "fab"
   name = "Python"
-#  description = ""
+  description = "Framework : Django, Django Rest Api, Kivy, Kivymd, Tkinter, Numpy, Pandas, Matplotlib etc.."
   
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
-  name = "Fontend Development"
-  description = "HTML, CSS, Javascript, SASS, JQUERY, JSON, AJAX"
+  name = "Web Development"
+  description = "HTML, CSS, Javascript, SASS, JQUERY, JSON, AJAX, React, Django, Django Rest Api"
   
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
-  name = "Backend Development"
-  description = " Django"
+  name = "Android, iOS and Desktop GUI"
+  description = " React Native, Tkinter, Kivy, Kivymd"
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = " Basic Linux ,  Bash Shell Script "
-  
+  description = "I have worked with various linux desto and Currently in Arch Linux, and I know bash shell script "
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Virtual Machine and Hypervisor"
+  description = "Virtualbox, KVM Hypervisor, Xen Hypervisor in Qubes Os "
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
