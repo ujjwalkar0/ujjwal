@@ -15,10 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
+#  icon = "python"
+#  icon_pack = "fab"
   name = "Python"
-  description = ""
+#  description = ""
   
 [[feature]]
   icon = "file-code"
