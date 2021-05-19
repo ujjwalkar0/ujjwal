@@ -50,6 +50,12 @@ subtitle = ""
   name = "Networking Tools"
   description = "Nmap, ssh "
   
+[[feature]]
+  icon = "network-wired"
+  icon_pack = "fas"
+  name = "Others"
+  description = "Github, Heroku,Arduino and Some Sensors "
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
