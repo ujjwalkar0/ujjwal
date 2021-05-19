@@ -39,8 +39,8 @@ subtitle = ""
   description = "I have worked with various linux desto and Currently in Arch Linux, and I know bash shell script "
 
 [[feature]]
-  icon = "linux"
-  icon_pack = "fab"
+  icon = "laptop"
+  icon_pack = "fas"
   name = "Virtual Machine, Hypervisor and Docker"
   description = "Virtualbox, KVM Hypervisor, Xen Hypervisor in Qubes Os, Docker "
 
