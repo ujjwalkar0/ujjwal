@@ -41,8 +41,8 @@ subtitle = ""
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
-  name = "Virtual Machine and Hypervisor"
-  description = "Virtualbox, KVM Hypervisor, Xen Hypervisor in Qubes Os "
+  name = "Virtual Machine, Hypervisor and Docker"
+  description = "Virtualbox, KVM Hypervisor, Xen Hypervisor in Qubes Os, Docker "
 
 # Uncomment to use emoji icons.
 # [[feature]]
