@@ -30,7 +30,7 @@ subtitle = ""
   icon = "cogs"
   icon_pack = "fas"
   name = "Android, iOS and Desktop GUI"
-  description = " React Native, Tkinter, Kivy, Kivymd"
+  description = " React Native, Tkinter, Kivy, Kivymd, Pyinstaller"
 
 [[feature]]
   icon = "linux"
