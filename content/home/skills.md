@@ -27,8 +27,8 @@ subtitle = ""
   description = "HTML, CSS, Javascript, SASS, JQUERY, JSON, AJAX, React, Django, Django Rest Api"
   
 [[feature]]
-  icon = "cogs"
-  icon_pack = "fas"
+  icon = "android"
+  icon_pack = "fab"
   name = "Android, iOS and Desktop GUI"
   description = " React Native, Tkinter, Kivy, Kivymd, Pyinstaller"
 
