@@ -75,3 +75,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+
+Hi, myself Ujjwal Kar, 3rd year of B.Tech in Engineering from Bengal Institute of Technology, Kolkata. My skills include Django, Linux and IoT. I pass my free time with writing or reading technical blogs, competitve programming or watching movies. I love to do small experiments or develop something new by coding.
