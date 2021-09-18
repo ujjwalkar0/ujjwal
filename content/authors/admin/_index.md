@@ -18,10 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, myself Ujjwal Kar, 2nd year of B.Tech in Engineering from Bengal Institute of Technology, Kolkata. I have worked on various technology and now I am Interested in Artifical Inteligence. I pass my free time with writing or reading technical blogs, competitve programming or watching movies. I love to do small experiments or develop something new by coding.
+bio: Hi, myself Ujjwal Kar, 3rd year of B.Tech in Engineering from Bengal Institute of Technology, Kolkata. My skills include Django, Linux and IoT. I pass my free time with writing or reading technical blogs, competitve programming or watching movies. I love to do small experiments or develop something new by coding.
 
 interests:
-- Algorithm
+- Web Development
+- Linux
+- IoT
 - Artificial Intelligence & Machine Learning
 
 education:
@@ -73,5 +75,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Hi, myself Ujjwal Kar, 2nd year of B.Tech in Engineering from Bengal Institute of Technology, Kolkata. I have worked on various technology and now I am Interested in Artifical Inteligence and Quantum Computing. I pass my free time with writing or reading technical blogs, competitve programming or watching movies. I love to do small experiments or develop something new by coding.
