@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Technologies I have worked with"
+title = "Technical Skill"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -24,19 +24,19 @@ subtitle = ""
   icon = "file-code"
   icon_pack = "fas"
   name = "Web Development"
-  description = "HTML, CSS, Javascript, SASS, JQUERY, JSON, AJAX, React, Django, Django Rest Api"
+  description = "HTML, CSS, Bootstrap, Django, Django Rest Api"
   
-[[feature]]
-  icon = "android"
-  icon_pack = "fab"
-  name = "Android, iOS and Desktop GUI"
-  description = " React Native, Tkinter, Kivy, Kivymd, Pyinstaller"
+# [[feature]]
+#   icon = "android"
+#   icon_pack = "fab"
+#   name = "Android, iOS and Desktop GUI"
+#   description = " React Native, Tkinter, Kivy, Kivymd, Pyinstaller"
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "I have worked with various linux desto and Currently in Arch Linux, and I know bash shell script "
+  description = " "
 
 [[feature]]
   icon = "laptop"
