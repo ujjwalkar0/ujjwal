@@ -38,7 +38,7 @@ subtitle = ""
   name = "Linux"
   description = " "
 
-[[feature]]
+<!-- [[feature]]
   icon = "laptop"
   icon_pack = "fas"
   name = "Virtual Machine, Hypervisor and Docker"
@@ -55,7 +55,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Others"
   description = "Github, Heroku,Arduino and Some Sensors "
-  
+   -->
 
 # Uncomment to use emoji icons.
 # [[feature]]
