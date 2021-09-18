@@ -38,24 +38,24 @@ subtitle = ""
   name = "Linux"
   description = " "
 
-<!-- [[feature]]
-  icon = "laptop"
-  icon_pack = "fas"
-  name = "Virtual Machine, Hypervisor and Docker"
-  description = "Virtualbox, KVM Hypervisor, Xen Hypervisor in Qubes Os, Docker "
+# [[feature]]
+#  icon = "laptop"
+#  icon_pack = "fas"
+#  name = "Virtual Machine, Hypervisor and Docker"
+#  description = "Virtualbox, KVM Hypervisor, Xen Hypervisor in Qubes Os, Docker "
   
-[[feature]]
-  icon = "network-wired"
-  icon_pack = "fas"
-  name = "Networking Tools"
-  description = "Nmap, ssh "
+# [[feature]]
+#  icon = "network-wired"
+#  icon_pack = "fas"
+#  name = "Networking Tools"
+#  description = "Nmap, ssh "
   
-[[feature]]
-  icon = "network-wired"
-  icon_pack = "fas"
-  name = "Others"
-  description = "Github, Heroku,Arduino and Some Sensors "
-   -->
+# [[feature]]
+#  icon = "network-wired"
+#  icon_pack = "fas"
+#  name = "Others"
+#  description = "Github, Heroku,Arduino and Some Sensors "
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
