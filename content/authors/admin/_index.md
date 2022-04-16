@@ -9,25 +9,29 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
+<!-- # Role/position
 role: Student
-
+ -->
 # Organizations/Affiliations
-organizations:
+<!-- organizations:
 - name: Bengal Institute of Technology
   url: ""
-
+ -->
+ 
 # Short bio (displayed in user profile at end of posts)
 bio: Hi, myself Ujjwal Kar. I feel very enthusiastic to explore and learn new technologies. I have done projects in both hardware and software with Python, Javascript, Arduino, and looking for an opportunity to explore Virtual Reality and Robotics. I leads many team projects of hackathons where we achieved 3rd position on the sih internal hackathon and top 20th position of SRIIH. I have published my own python packages on PyPI, and technical blogs on medium. Currently, I am working on machine Learning project intern at iNeuron and doing some research work LiFi technology.
 
 
 interests:
-- Web Development
+ - Machine Learning
+ - Backend Development
+<!-- - Web Development
 - Linux
 - IoT
 - Artificial Intelligence & Machine Learning
-
-education:
+ -->
+ 
+<!-- education:
   courses:
   - course: B.Tech in Computer Science and Engineering
     institution: Bengal Institute of Technology
@@ -35,7 +39,7 @@ education:
   - course: 10+2
     institution: Kamalpur Netaji High School
     year: 2018
- 
+  -->
   
 
 # Social/Academic Networking
