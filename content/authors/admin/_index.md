@@ -18,7 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, myself Ujjwal Kar, 3rd year of B.Tech in Engineering from Bengal Institute of Technology, Kolkata. My skills include Django, Linux and IoT. I pass my free time with writing or reading technical blogs, competitve programming or watching movies. I love to do small experiments or develop something new by coding.
+bio: Hi, myself Ujjwal Kar. I feel very enthusiastic to explore and learn new technologies. I have done projects in both hardware and software with Python, Javascript, Arduino, and looking for an opportunity to explore Virtual Reality and Robotics. I leads many team projects of hackathons where we achieved 3rd position on the sih internal hackathon and top 20th position of SRIIH. I have published my own python packages on PyPI, and technical blogs on medium. Currently, I am working on machine Learning project intern at iNeuron and doing some research work LiFi technology.
+
 
 interests:
 - Web Development
@@ -77,4 +78,4 @@ user_groups:
 ---
 
 
-Hi, myself Ujjwal Kar, 3rd year of B.Tech in Engineering from Bengal Institute of Technology, Kolkata. My skills include Django, Linux and IoT. I pass my free time with writing or reading technical blogs, competitve programming or watching movies. I love to do small experiments or develop something new by coding.
+Hi, myself Ujjwal Kar. I feel very enthusiastic to explore and learn new technologies. I have done projects in both hardware and software with Python, Javascript, Arduino, and looking for an opportunity to explore Virtual Reality and Robotics. I leads many team projects of hackathons where we achieved 3rd position on the sih internal hackathon and top 20th position of SRIIH. I have published my own python packages on PyPI, and technical blogs on medium. Currently, I am working on machine Learning project intern at iNeuron and doing some research work LiFi technology.
