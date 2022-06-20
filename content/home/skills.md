@@ -18,13 +18,13 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Framework : Django, Django Rest Api, Kivy, Kivymd, Tkinter, Numpy, Pandas, Matplotlib etc.."
+  description = "Python, Numpy, Pandas, Matplotlib, Seaborn, sklearn etc.."
   
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
   name = "Full Stack Web Development"
-  description = "HTML, CSS, Bootstrap, Django, Django Rest Api"
+  description = "HTML, CSS, Bootstrap, Javascript, Django, Django Rest Api"
   
 # [[feature]]
 #   icon = "android"
