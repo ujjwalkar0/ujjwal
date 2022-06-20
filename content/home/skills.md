@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
-  name = "Full Stack Web Development"
+  name = "Full Stack Development"
   description = "HTML, CSS, Bootstrap, Javascript, Django, Django Rest Api"
   
 # [[feature]]
