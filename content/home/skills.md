@@ -35,7 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "microchip"
   icon_pack = "fas"
-  name = "Hardware"
+  name = "Internet of Things"
   description = "Arduino, Nodemcu ESP32, Raspberry Pi"
 
 # [[feature]]
