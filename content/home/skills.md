@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
-  name = "Web Development"
+  name = "Full Stack Web Development"
   description = "HTML, CSS, Bootstrap, Django, Django Rest Api"
   
 # [[feature]]
@@ -34,7 +34,7 @@ subtitle = ""
 
 [[feature]]
   icon = "microchip"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Hardware"
   description = "Arduino, Nodemcu ESP32, Raspberry Pi"
 
