@@ -26,12 +26,6 @@ subtitle = ""
   name = "Full Stack Development"
   description = "HTML, CSS, Javascript, Django Rest Api, Django, Bootstrap"
   
-# [[feature]]
-#   icon = "android"
-#   icon_pack = "fab"
-#   name = "Android, iOS and Desktop GUI"
-#   description = " React Native, Tkinter, Kivy, Kivymd, Pyinstaller"
-
 [[feature]]
   icon = "microchip"
   icon_pack = "fas"
