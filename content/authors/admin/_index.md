@@ -14,13 +14,7 @@ role: Student
 
   
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, myself Ujjwal Kar. I feel very enthusiastic to explore and learn new technologies. I have done projects in both hardware and software with Python, Machine Learning, Javascript, Arduino, Raspberry Pi, Django, and many pythons and javascript libraries/frameworks.
-
-I leads many team projects of hackathons where we achieved 3rd position on the sih internal hackathon and top 20th position of SRIIH. 
-
-I have published my own python packages on PyPI, and technical blogs on medium.
-
-Currently, I am doing Research work with Natural Language Processing and Deep Neural NetworkHi, myself Ujjwal Kar.
+bio: Hi, myself Ujjwal Kar. I feel very enthusiastic to explore and learn new technologies. I have done projects in both hardware and software with Python, Machine Learning, Javascript, Arduino, Raspberry Pi, Django, and many pythons and javascript libraries/frameworks. I leads many team projects of hackathons where we achieved 3rd position on the sih internal hackathon and top 20th position of SRIIH. I have published my own python packages on PyPI, and technical blogs on medium. Currently, I am doing Research work with Natural Language Processing and Deep Neural NetworkHi, myself Ujjwal Kar.
 
 
 interests:
@@ -70,10 +64,4 @@ user_groups:
 ---
 
 
-Hi, myself Ujjwal Kar. I feel very enthusiastic to explore and learn new technologies. I have done projects in both hardware and software with Python, Machine Learning, Javascript, Arduino, Raspberry Pi, Django, and many pythons and javascript libraries/frameworks.
-
-I leads many team projects of hackathons where we achieved 3rd position on the sih internal hackathon and top 20th position of SRIIH. 
-
-I have published my own python packages on PyPI, and technical blogs on medium.
-
-Currently, I am doing Research work with Natural Language Processing and Deep Neural NetworkHi, myself Ujjwal Kar.
+Hi, myself Ujjwal Kar. I feel very enthusiastic to explore and learn new technologies. I have done projects in both hardware and software with Python, Machine Learning, Javascript, Arduino, Raspberry Pi, Django, and many pythons and javascript libraries/frameworks. I leads many team projects of hackathons where we achieved 3rd position on the sih internal hackathon and top 20th position of SRIIH. I have published my own python packages on PyPI, and technical blogs on medium. Currently, I am doing Research work with Natural Language Processing and Deep Neural Network
