@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
+  icon = "Machine Learning"
+  icon_pack = "fa"
+  name = "microchip-ai"
   description = "Framework : Django, Django Rest Api, Kivy, Kivymd, Tkinter, Numpy, Pandas, Matplotlib etc.."
   
 [[feature]]
