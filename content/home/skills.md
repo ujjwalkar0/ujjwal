@@ -18,7 +18,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Python, Numpy, Pandas, Matplotlib, Seaborn, sklearn etc.."
+  description = "Python, Numpy, Pandas, Matplotlib, Seaborn, sklearn"
   
 [[feature]]
   icon = "file-code"
@@ -36,7 +36,7 @@ subtitle = ""
   icon = "microchip"
   icon_pack = "fas"
   name = "Internet of Things"
-  description = "Arduino, Nodemcu ESP32, Raspberry Pi"
+  description = "Arduino, Nodemcu ESP32, Raspberry Pi, sensors"
 
 # [[feature]]
 #  icon = "laptop"
