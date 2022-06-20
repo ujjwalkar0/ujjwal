@@ -33,10 +33,10 @@ subtitle = ""
 #   description = " React Native, Tkinter, Kivy, Kivymd, Pyinstaller"
 
 [[feature]]
-  icon = "linux"
+  icon = "microchip"
   icon_pack = "fab"
-  name = "Linux"
-  description = " "
+  name = "Hardware"
+  description = "Arduino, Nodemcu ESP32, Raspberry Pi"
 
 # [[feature]]
 #  icon = "laptop"
